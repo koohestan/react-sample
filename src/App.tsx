@@ -1,9 +1,13 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Home from "./components/pages/Home";
-import Courses from "./components/pages/Courses";
-import Users from "./components/pages/Users";
-import Register from "./components/pages/Register";
+import Home from "./pages/Home/Home";
+import Courses from "./pages/Courses/Courses";
+import Users from "./pages/Users";
+import Register from "./pages/Register";
+// import Home from "./pages/Home/Home";
+// import Courses from "./pages/Courses/Courses";
+// import Users from "./pages/Users";
+// import Register from "./pages/Register";
 // import Home from "./pages/Home";
 // import Courses from "./pages/Courses";
 // import Users from "./pages/Users";
